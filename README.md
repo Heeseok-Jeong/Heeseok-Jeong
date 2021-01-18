@@ -7,9 +7,15 @@
  -->
 ### Hi there, I'm Heath Jeong 🙋‍♂️
 
-
+- ✏️ I majored in Computer Science and Electronic Engeneering
 - 🌱 I’m currently learning ML at BoostCamp AI Tech
+- 💻 I wanna be an AI Engineer
+- 🥋 I'm jiujitteiro (Beginner 😆)
+- 
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://heeseok-jeong.github.io/)](https://heeseok-jeong.github.io/)
+
+<hr>
+[![Heeseok's github stats](https://github-readme-stats.vercel.app/api?username=Heeseok-Jeong)](https://github.com/anuraghazra/github-readme-stats)
