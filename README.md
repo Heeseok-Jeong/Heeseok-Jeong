@@ -14,4 +14,4 @@
 - 👾 Enjoy to browse my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://heeseok-jeong.github.io/)](https://heeseok-jeong.github.io/)
 
 <hr>
-[![Heeseok's github stats](https://github-readme-stats.vercel.app/api?username=Heeseok-Jeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Heeseok's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
