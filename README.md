@@ -1,14 +1,9 @@
-<div align=left style="float:left; width:50%;">
-    
+   
 ### Hi there, I'm Heath Jeong 🙋‍♂️
-  
-</div>
 
-<div align=right style="float:right; width:50%;">
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
   
-</div>
+
 
 
 - ✏️ I majored in Computer Science and Electronic Engeneering
