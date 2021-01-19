@@ -1,11 +1,13 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-<!-- <div align=left>
-	
+<div>
+  <div align=left>
+  ### Hi there, I'm Heath Jeong 🙋‍♂️
+  </div>
+
+  <div align=right>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
+  </div>
 </div>
- -->
-### Hi there, I'm Heath Jeong 🙋‍♂️
+
 
 - ✏️ I majored in Computer Science and Electronic Engeneering
 - 🌱 I’m currently learning ML at BoostCamp AI Tech
