@@ -7,7 +7,7 @@
 
 
 - ✏️ I majored in Computer Science and Electronic Engeneering
-- 🌱 I’m currently learning ML at BoostCamp AI Tech
+- 🌱 I’m currently learning AI at BoostCamp AI Tech
 - 💻 I wanna be an AI Engineer
 - 🥋 I'm a Jiujitteiro (Beginner 😆)
 - 👾 Enjoy to browse my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://heeseok-jeong.github.io/)](https://heeseok-jeong.github.io/)
