@@ -1,5 +1,5 @@
    
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Win%20or%20Learn&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Win%20or%20Learn&fontSize=80)
 
 ### Hi there, I'm Heath Jeong 🙋‍♂️
 
