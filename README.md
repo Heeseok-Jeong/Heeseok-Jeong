@@ -13,7 +13,7 @@
 - 💻 I wanna be an AI Engineer
 - 🥋 I'm a Jiujitteiro (Beginner 😆)
 - 👾 Enjoy to browse my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dldydldy75/)](https://velog.io/@dldydldy75/)
-- 📒 Check my [portfolio](https://www.notion.so/Heath-88391ecfaa214981abb4b8c3bd5b5ab2)
+- 📒 Check my [portfolio](https://www.notion.so/Heath-88391ecfaa214981abb4b8c3bd5b5ab2) (incomplete)
 
 <hr>
 
