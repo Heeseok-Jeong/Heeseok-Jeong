@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning AI at BoostCamp AI Tech
 - 💻 I wanna be an AI Engineer
 - 🥋 I'm a Jiujitteiro and Judoka(Beginner 😆)
-- 👾 Enjoy to browse my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dldydldy75/)](https://velog.io/@dldydldy75/)
+- 👾 Enjoy browsing my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dldydldy75/)](https://velog.io/@dldydldy75/)
 - 📃 Check my [CV](https://drive.google.com/file/d/1WbGtlxl4iwA7egK-sDwQmzQL6g2uoi6h/view?usp=sharing) 
 
 <hr>
