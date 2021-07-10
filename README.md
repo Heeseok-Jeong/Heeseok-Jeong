@@ -8,7 +8,7 @@
 
 
 
-- ✏️ I majored in Computer Science and Electronic Engeneering
+- ✏️ I majored in Computer Science and Electrical Engeneering
 - 💻 I wanna be an AI Engineer
 - 🥋 I'm a Jiujitteiro and Judoka
 - 👾 Enjoy browsing my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dldydldy75/)](https://velog.io/@dldydldy75/)
